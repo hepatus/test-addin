@@ -8,7 +8,7 @@
     <Description DefaultValue="Test"/>
     <IconUrl DefaultValue="https://assets.my-swizi.io/mycompany/assets_ico32.png"/>
     <HighResolutionIconUrl DefaultValue="https://assets.my-swizi.io/mycompany/assets_ico80.png"/>
-    <SupportUrl DefaultValue="https://https://main.dcel5eesocuvr.amplifyapp.com:3000/index.html"/>
+    <SupportUrl DefaultValue="https://main.dcel5eesocuvr.amplifyapp.com:3000/index.html"/>
     
     <AppDomains>
         <AppDomain>swizi.io</AppDomain>
@@ -24,7 +24,7 @@
     <FormSettings>
         <Form xsi:type="ItemRead">
             <DesktopSettings>
-                <SourceLocation DefaultValue="https://https://main.dcel5eesocuvr.amplifyapp.com:3000/index.html"/>
+                <SourceLocation DefaultValue="https://main.test-addin.swizi.io/index.html"/>
                 <RequestedHeight>420</RequestedHeight>
             </DesktopSettings>
         </Form>
@@ -79,7 +79,7 @@
                     <bt:Image id="Icon.80x80" DefaultValue="https://assets.my-swizi.io/mycompany/assets_ico80.png"/>
                 </bt:Images>
                 <bt:Urls>
-                    <bt:Url id="SwiziExtension.Url" DefaultValue="https://https://main.dcel5eesocuvr.amplifyapp.com:3000/index.html"/>
+                    <bt:Url id="SwiziExtension.Url" DefaultValue="https://main.test-addin.swizi.io/index.html"/>
                 </bt:Urls>
                 <bt:ShortStrings>
                     <bt:String id="GroupLabel" DefaultValue="Swizi"/>
